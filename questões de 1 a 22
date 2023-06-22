@@ -1,0 +1,57 @@
+Questão 2:
+    Realizar operações aritméticas, tais como as 4 operações básicas e operações lógicas, tais como o uso dos conectivos lógicos OR, AND, XOR e etc, assim como algumas funções extras como inversões e complementos.
+
+Questão 5:
+    Interpretação do código de isntruções, assim como as ações necéssarias para sua realização.
+
+Questão 7:
+
+Questão 8:
+    Uma solução seria a utilização de instruções que por si só realize a atualização do endereço.
+
+Questão 9:
+    Se chama Progam Counter e está localizado dentro do processador.
+
+Questão 10:
+    
+Questão 11:
+    REM(Registrador de endereço), o tamanho do mesmo determina indiretamente a capacidade de memória. Ex.: REM de n bits, para células de x bits, têm-se 2^n células, portanto [(2^n)*x]bits de capacidade total.
+
+Questão 12:
+
+Questão 13:
+a)Barramento de dados=20 bits=Tamanho do RDM. REM=16 bits= tamanho do CI.
+b)16 bits de endereços=2^16 células=2^19 bits=2^9kbits, placa=4k células=2^5kbits. A expansão é dada por 2^9kbits-2^5kbits=
+(512-32)kbits=480kbits
+c)RDM=20 bits=palavra
+
+Questão 14:
+
+Questão 15:
+   Refere-se ao tamanho do ACC e por consequência da palavra, portanto o tipo A teria ACC e palavra de 8 bits e o tipo B ACC e palavra de 16 bits.A base do conceito de palavra diz respeito ao tamanho do conjunto de bits que será manipulado em um determinado sistema, enquanto a célula se refere ao menor conjunto de bits endereçável em um sistema de memória.
+
+Questão 16:
+a)Mesmo tamanho do RI(38 bits).
+b)38-2*operandos=38-2*16=38-32=6 bits de tamanho do campo do código.
+c)CI=16 bits, então têm-se 2^16 células=2^19 bits=2^9 kbits, então a expansão é dada por 2^9 kbits- 2^4 kbits=2^4 kbits(2^5-1)=16kbits*31=62kbytes de expansão
+
+Questão 17:
+a)256 células= (2^8)*(2^4) bits=2^12 bits=2K bits
+b)
+c)De acordo com a ilustração da memória, FD=4040, que por sua vez seria o conteúdo.
+
+Questão 18:
+    O processamento sequencial realiza uma instrução somente quando as etapas da instrução anterior tiverem sido concluídas, enquanto no pipeline a etapa de uma instrução inicia quando a mesma etapa da instrução anterior tiver sido finalizada, fazendo com que mais de uma instrução possa ser realizada.
+
+Questão 19:
+a)Por conta do CI, 32 bits.
+b)32 bits=2^32 células
+c)O trecho do comando 'todos com 32 bits de largura' implica 32 bits.
+
+Questão 20:
+    Por serem 197 tipos, têm-se que a maior potência de 2 que é menor ou igual a 197 é 256=2^8, portanto o decodificador teria 8 entradas e 197 saídas.
+
+Questão 22:
+    a)
+    b)16 resgistradores=2^4, portanto 4 bits.
+    c)
